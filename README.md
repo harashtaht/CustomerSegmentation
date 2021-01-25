@@ -1,1 +1,1 @@
-Implementing Multi Classification Machine Learning model towards Customer Segmentation for Automobile Company, as well as Exploratory Data Analysis of which features influence the spending score.
+Implementing Multi Classification Machine Learning model to predict Customer Segmentation in Automobile Company products, as well as doing Exploratory Data Analysis over each features to determine which metadata influence the spending score.
